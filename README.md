@@ -237,7 +237,7 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/praveenvenkatt/Cryptography---19CS412-classical-techqniques/assets/119560117/aa6282e9-986b-44a5-a18f-ca5f88a26914)
+![image](https://github.com/surrey-78/Cryptography---19CS412-classical-techqniques/assets/119559366/c229bc47-a02a-4590-83e3-fb651385ef8c)
 
 
 ## RESULT:
