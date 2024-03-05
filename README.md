@@ -298,7 +298,7 @@ int main()
 }
 ```
 ## OUTPUT:
-![image](https://github.com/praveenvenkatt/Cryptography---19CS412-classical-techqniques/assets/119560117/24ddc7f8-9420-4f61-ab00-90d62c3676c1)
+![image](https://github.com/surrey-78/Cryptography---19CS412-classical-techqniques/assets/119559366/f17d07a5-200a-487b-905a-be4d1c6e1cf2)
 
 ## RESULT:
 The program is executed successfully
